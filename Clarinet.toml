@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.sleep-token]
+path = "contracts/sleep-token.clar"
+depends_on = []
+
 [contracts.sleep-tracker]
 path = "contracts/sleep-tracker.clar"
 depends_on = []
